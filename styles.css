@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    
     background-color: #2ef31c;
     color: #333;
     
@@ -12,7 +13,10 @@ main {
 }
 .section1 {
    
-    background-color: #2fd4be;
+    background-color: #27db45;
+
+
+
     
 }
 button {
@@ -21,7 +25,11 @@ button {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    
 }
 button:hover {
     background-color: #b2d10f;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
 }
