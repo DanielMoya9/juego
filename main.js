@@ -88,5 +88,5 @@ function destapar(id) {
             },800);
         } 
 
-    }
+    }//arreglar css
 }

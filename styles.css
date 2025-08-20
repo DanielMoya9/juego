@@ -9,6 +9,7 @@ main {
     border: 1px solid #c22ecf;
     margin: 30px auto;
     display: flex  ;
+    height: fit-content;
 
 }
 .section1 {
